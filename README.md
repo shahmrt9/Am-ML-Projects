@@ -1,4 +1,4 @@
-# Practice-project
+# Practice-project 1 Happiness Score
 Projects on ML
 
 World Happiness Report
